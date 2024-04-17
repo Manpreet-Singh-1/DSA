@@ -15,7 +15,7 @@
 using namespace std;
 int main()
 {
-  printf("Enter the value of n : ");
+  printf("Enter the value of n :");
   int n;
   scanf("%d", &n);
   int ml = (n / 2) + 1;
